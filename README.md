@@ -6,4 +6,4 @@ Things to do:
 - [x] Build and publish assemblies to GH artifacts using `dotnet` command
 - [x] Build and push Docker images to Docker Hub
 - [ ] Deploy built artifact to AWS/Azure
-- [ ] Deploy pushed Docker image to AWS Azure
+- [ ] Deploy pushed Docker image to AWS/Azure
